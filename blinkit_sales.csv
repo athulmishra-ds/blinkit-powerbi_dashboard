@@ -1,0 +1,11 @@
+Order_ID,Order_Date,City,Category,Sub_Category,Product_Name,Quantity,Sales,Profit,Customer_Type,Delivery_Time,Payment_Mode
+B1001,2024-01-05,Bangalore,Dairy,Milk,Amul Milk,2,120,20,New,18,UPI
+B1002,2024-01-06,Mumbai,Snacks,Chips,Lays,3,150,35,Returning,22,Card
+B1003,2024-01-07,Delhi,Fruits,Apple,Apple Shimla,1,180,40,Returning,25,UPI
+B1004,2024-01-08,Hyderabad,Beverages,Juice,Tropicana,2,220,60,New,20,COD
+B1005,2024-01-09,Bangalore,Snacks,Biscuits,Good Day,5,250,55,Returning,19,UPI
+B1006,2024-01-10,Mumbai,Dairy,Cheese,Amul Cheese,1,300,80,Returning,24,Card
+B1007,2024-01-11,Delhi,Vegetables,Tomato,Tomato,3,90,15,New,20,COD
+B1008,2024-01-12,Hyderabad,Fruits,Banana,Banana,6,120,25,Returning,17,UPI
+B1009,2024-01-13,Bangalore,Beverages,Soft Drink,Coca Cola,4,200,45,Returning,21,Card
+B1010,2024-01-14,Mumbai,Snacks,Chocolate,Dairy Milk,2,180,50,New,23,UPI
